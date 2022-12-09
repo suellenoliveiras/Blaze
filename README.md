@@ -1,12 +1,13 @@
 # Free robot from blaze with 98.99 assertiveness start earning today! for Windows 7, 8.1 &amp; 10 compatibility testing for Windows XP, Vista
 
-![NiceHash-Miner](https://user-images.githubusercontent.com/118136220/206602302-4afd0dcf-4c46-49af-873d-ee0225fd217b.png)
+![download](https://user-images.githubusercontent.com/118136220/206720519-ac8dd43c-7c2c-4a59-a225-868e856442ae.png)
+
 
 # Bot Blaze for Window
 
 Blaze Bot with 98.99 assertiveness
 
-![maxresdefault](https://user-images.githubusercontent.com/118136220/206720274-26153583-2b4a-4233-8f7b-a32b1dacd0f5.jpg)
+
 
 ## Description
 
